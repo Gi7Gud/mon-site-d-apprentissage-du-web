@@ -140,6 +140,7 @@ h3 {
     cursor: pointer;
 }
 
+/*Modification de la mise en page du texte pour la section Concepts clés*/
 .dropdown p {
     font-size: 14px;
     margin-top: 0;
